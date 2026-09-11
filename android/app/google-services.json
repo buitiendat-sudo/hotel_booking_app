@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354742083374",
+    "project_id": "hotel-booking-flutter-2026",
+    "storage_bucket": "hotel-booking-flutter-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354742083374:android:f40b2236cd7638427524bf",
+        "android_client_info": {
+          "package_name": "com.example.hotel_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCOGVZSrKFOCQVGbjrWeGQKSErrviw8zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
